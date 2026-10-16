@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.log
+.pytest_cache/
+dist/
+build/
+*.spec
+node_modules/
+.vercel/
